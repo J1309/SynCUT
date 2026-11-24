@@ -190,6 +190,7 @@ export const CAROLS: Carol[] = [
     title: 'അന്നു രാവിൽ ബെത്ലഹേമിൽ',
     subtitle: 'Annu Raavil Bethlahemil · Unni Yeshu Pirannu',
     duration: 210.8,
+    karaokeUri: require('../../assets/songs/carol4_NC.mp3'),
     audioUri: require('../../assets/songs/Carol_4.mp3'),
     lyrics: [
       { time: 0, text: '♪', translit: 'Flute & Rhythm Intro' },
