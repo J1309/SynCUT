@@ -1,0 +1,7 @@
+node_modules/
+.expo/
+.home/
+dist/
+dist-check/
+*.raw
+*.log

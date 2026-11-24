@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "SynCUT Carols",
+    "slug": "syncut-carols",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "CADisableMinimumFrameDurationOnPhone": true
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0F141C"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
